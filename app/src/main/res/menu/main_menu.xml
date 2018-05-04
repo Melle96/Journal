@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/remove_journals"
+        android:title="@string/remove_journals"
+        app:showAsAction="never"
+        android:onClick="remove_journals_method"/>
+
+    <item android:id="@+id/add_standard_journal"
+        android:title="@string/add_standard_journal"
+        app:showAsAction="never"
+        android:onClick="add_standard_journal"/>
+
+</menu>

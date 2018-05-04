@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Journal</string>
+    <string name="remove_journals">Remove All Journals</string>
+    <string name="add_standard_journal">Add Standard Journal</string>
+</resources>
